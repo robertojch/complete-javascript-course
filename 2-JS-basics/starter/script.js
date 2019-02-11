@@ -77,4 +77,38 @@ console.log(jhonOlder);
 console.log(typeof jhonOlder);
 console.log(typeof ageJhon);
 console.log(typeof 'Roberto Jacinto');
+var x;
+console.log(x);
 
+/*
+ * Operator precedence 
+ */
+
+var now = 2018;
+var yearJohn = 1989;
+var fullAge = 18;
+
+var isFullAge = now - yearJhon >= fullAge;
+console.log(isFullAge);
+
+//Grouping
+var ageJhon = now - yearJhon;
+var ageMark = 35;
+var average = (ageJhon + ageMark)/2;
+console.log(average);
+
+//Multiple assignments 
+var x,y;
+x = y = (3+5)* 4- 6;
+console.log(x,y);
+
+//MOre Operators
+x = x *2;
+console.log(x);
+x *= 2;
+console.log(x);
+var m = 23;
+m++;
+console.log(m);
+m--;
+console.log(m);
